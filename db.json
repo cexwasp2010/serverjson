@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 103258964,
+      "attribute_1": "this first"
+    },
+    {
+      "id": 5862154,
+      "attribute_2": "this second"
+    },
+    {
+      "id": 9560214,
+      "attribute_1": "this third",
+      "attribute_2": "this third 2"
+    }
+  ],
+  "profile": {
+    "name": "profile_test"
+  }
+}
